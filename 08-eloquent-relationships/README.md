@@ -1,4 +1,4 @@
-## **Class 33 (One to One)**
+## **One to One Relationship**
 
     1. A relation between users and phones table
 
@@ -74,7 +74,7 @@
 
         b. The other model will use hasOne() function
 
-## **Class 33 (One to Many)**
+## **One to Many Relationship**
 
     1. A relation between posts and comments table
     
@@ -154,7 +154,7 @@
 
         b. The other model will use hasMany() function
 
-## **Class 33 (Many to Many)**
+## **Many to Many Relationship**
 
     1.  A relation between posts and categories table
 
